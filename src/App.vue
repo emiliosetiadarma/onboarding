@@ -12,7 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <HelloWorld msg="Hello PBRX! This is Emilio Setiadarma" github-link="https://github.com/emiliosetiadarma" username="emiliosetiadarma"/>
     </div>
     <div class="wrapper">
-      <HelloWorld msg="Hello PBRX! This is Emilio Setiadarma Test User"
+      <HelloWorld msg="Hello PBRX! This is Emilio Setiadarma Test User After Second Test"
                   github-link="https://github.com/emiliosetiadarmatest"
                   username="emiliosetiadarmatest" />
     </div>
