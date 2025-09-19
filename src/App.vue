@@ -16,6 +16,11 @@ import HelloWorld from './components/HelloWorld.vue'
                   github-link="https://github.com/emiliosetiadarmatest"
                   username="emiliosetiadarmatest" />
     </div>
+    <div class="wrapper">
+      <HelloWorld msg="Hello PBRX! This is Azis Maulana Test From PBRX Test"
+                  github-link="https://github.com/azismaulana1883"
+                  username="azismaulana1883" />
+    </div>
   </main>
 </template>
 
