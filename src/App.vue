@@ -9,6 +9,9 @@ import HelloWorld from './components/HelloWorld.vue'
 
   <main>
     <div class="wrapper">
+      <HelloWorld msg="Hello Team PBRX! This is Luarensius Arief Rahman" github-link="https://github.com/Wolfzmus" username="wolfzmus"/>
+    </div>
+<div class="wrapper">
       <HelloWorld
         msg="Hello PBRX! This is Emilio Setiadarma"
         github-link="https://github.com/emiliosetiadarma"
