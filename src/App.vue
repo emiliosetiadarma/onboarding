@@ -9,15 +9,54 @@ import HelloWorld from './components/HelloWorld.vue'
 
   <main>
     <div class="wrapper">
-      <HelloWorld msg="Hello PBRX! This is Emilio Setiadarma" github-link="https://github.com/emiliosetiadarma" username="emiliosetiadarma"/>
+      <HelloWorld msg="Hello Team PBRX! This is Luarensius Arief Rahman" github-link="https://github.com/Wolfzmus" username="wolfzmus"/>
+    </div>
+<div class="wrapper">
+      <HelloWorld
+        msg="Hello PBRX! This is Emilio Setiadarma"
+        github-link="https://github.com/emiliosetiadarma"
+        username="emiliosetiadarma"
+      />
+    </div>
+    <div class="wrapper">
+      <HelloWorld
+        msg="Hello PBRX! This is Emilio Setiadarma Test User After Second Test"
+        github-link="https://github.com/emiliosetiadarmatest"
+        username="emiliosetiadarmatest"
+      />
+      <HelloWorld
+        msg="Hello PBRX! This is Ferdian Estu Anantama"
+        github-link="https://github.com/ferdiananantama"
+        username="ferdiananantama"
+      />
+    </div>
+	<div class="wrapper">
+      <HelloWorld msg="Hello PBRX! This is Nugroho Ari Saputro"
+                  github-link="https://github.com/githubpbrx"
+                  username="githubpbrx" />
+    </div>
+<div class="wrapper">
+      <HelloWorld msg="Hello PBRX! This is Juvan Daffa Tyowarsa"
+                  github-link="https://github.com/juvandaffa23"
+                  username="juvandaffa23" />
+    </div>
+    <div class="wrapper">
+      <HelloWorld msg="Hello PBRX! This is Affan Yodantya Sambodo"
+                  github-link="https://github.com/newbieon123"
+                  username="affanyodantyasambodotestt" />
+    </div>
+    <div class="wrapper">
+      <HelloWorld msg="Hello PBRX! This is Azis Maulana Test From PBRX Test"
+                  github-link="https://github.com/azismaulana1883"
+                  username="azismaulana1883" />
     </div>
     <div class="wrapper">
       <HelloWorld msg="Hello PBRX! This is Hady" github-link="https://github.com/hadyginanjar" username="hadyginanjar"/>
     </div>
     <div class="wrapper">
-      <HelloWorld msg="Hello PBRX! This is Emilio Setiadarma Test User After Second Test"
-                  github-link="https://github.com/emiliosetiadarmatest"
-                  username="emiliosetiadarmatest" />
+      <HelloWorld msg="Hello PBRX! This is Muhammad Fadhli Hisyam"
+                  github-link="https://github.com/fadhlihisyam-work/"
+                  username="fadhlihisyam-work" />
     </div>
   </main>
 </template>
