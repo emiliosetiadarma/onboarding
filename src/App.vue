@@ -11,7 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <div class="wrapper">
       <HelloWorld msg="Hello Team PBRX! This is Luarensius Arief Rahman" github-link="https://github.com/Wolfzmus" username="wolfzmus"/>
     </div>
-<div class="wrapper">
+    <div class="wrapper">
       <HelloWorld
         msg="Hello PBRX! This is Emilio Setiadarma"
         github-link="https://github.com/emiliosetiadarma"
@@ -20,22 +20,17 @@ import HelloWorld from './components/HelloWorld.vue'
     </div>
     <div class="wrapper">
       <HelloWorld
-        msg="Hello PBRX! This is Emilio Setiadarma Test User After Second Test"
-        github-link="https://github.com/emiliosetiadarmatest"
-        username="emiliosetiadarmatest"
-      />
-      <HelloWorld
         msg="Hello PBRX! This is Ferdian Estu Anantama"
         github-link="https://github.com/ferdiananantama"
         username="ferdiananantama"
       />
     </div>
-	<div class="wrapper">
+    <div class="wrapper">
       <HelloWorld msg="Hello PBRX! This is Nugroho Ari Saputro"
                   github-link="https://github.com/githubpbrx"
                   username="githubpbrx" />
     </div>
-<div class="wrapper">
+    <div class="wrapper">
       <HelloWorld msg="Hello PBRX! This is Juvan Daffa Tyowarsa"
                   github-link="https://github.com/juvandaffa23"
                   username="juvandaffa23" />
