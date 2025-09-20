@@ -9,12 +9,12 @@ import HelloWorld from './components/HelloWorld.vue'
 
   <main>
     <div class="wrapper">
-      <HelloWorld msg="Hello PBRX! This is Emilio Setiadarma" github-link="https://github.com/emiliosetiadarma" username="emiliosetiadarma"/>
+      <HelloWorld msg="Hello Team PBRX! This is Luarensius Arief Rahman" github-link="https://github.com/Wolfzmus" username="wolfzmus"/>
     </div>
     <div class="wrapper">
-      <HelloWorld msg="Hello PBRX! This is Emilio Setiadarma Test User After Second Test"
-                  github-link="https://github.com/emiliosetiadarmatest"
-                  username="emiliosetiadarmatest" />
+      <HelloWorld msg="Hello Team PBRX! This is Luarensius Arief Rahman Test User After Second Test"
+                  github-link="https://github.com/Wolfzmus/onboardingariefrahman"
+                  username="wolfzmus" />
     </div>
   </main>
 </template>
