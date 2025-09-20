@@ -51,6 +51,9 @@ import HelloWorld from './components/HelloWorld.vue'
                   username="azismaulana1883" />
     </div>
     <div class="wrapper">
+      <HelloWorld msg="Hello PBRX! This is Hady" github-link="https://github.com/hadyginanjar" username="hadyginanjar"/>
+    </div>
+    <div class="wrapper">
       <HelloWorld msg="Hello PBRX! This is Muhammad Fadhli Hisyam"
                   github-link="https://github.com/fadhlihisyam-work/"
                   username="fadhlihisyam-work" />
