@@ -27,6 +27,11 @@ import HelloWorld from './components/HelloWorld.vue'
         username="ferdiananantama"
       />
     </div>
+	<div class="wrapper">
+      <HelloWorld msg="Hello PBRX! This is Nugroho Ari Saputro"
+                  github-link="https://github.com/githubpbrx"
+                  username="githubpbrx" />
+    </div>
   </main>
 </template>
 
