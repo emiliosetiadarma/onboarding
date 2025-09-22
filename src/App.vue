@@ -58,6 +58,11 @@ import HelloWorld from './components/HelloWorld.vue'
                   github-link="https://github.com/rossy-awan"
                   username="rossy-awan" />
     </div>
+        <div class="wrapper">
+      <HelloWorld msg="Hello PBRX! This is Frea Eka Septya"
+                  github-link="https://github.com/freaeka05-gif/"
+                  username="freaeka05-gif" />
+    </div>
   </main>
 </template>
 
